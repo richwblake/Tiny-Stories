@@ -58,16 +58,48 @@
 		3016DD3F2814F4E500C01480 /* Tiny Stories */ = {
 			isa = PBXGroup;
 			children = (
-				3016DD402814F4E500C01480 /* AppDelegate.swift */,
-				3016DD422814F4E500C01480 /* SceneDelegate.swift */,
-				3016DD442814F4E500C01480 /* InfoListTableViewController.swift */,
-				3016DD462814F4E500C01480 /* Main.storyboard */,
+				3016DD592815019D00C01480 /* Lifecycle Functions */,
+				3016DD562815016F00C01480 /* Controllers */,
+				3016DD572815017B00C01480 /* Views */,
 				3016DD492814F4E700C01480 /* Assets.xcassets */,
-				3016DD4B2814F4E700C01480 /* LaunchScreen.storyboard */,
 				3016DD4E2814F4E700C01480 /* Info.plist */,
-				3016DD542814F91300C01480 /* Constants.swift */,
+				3016DD582815018D00C01480 /* Utilities */,
 			);
 			path = "Tiny Stories";
+			sourceTree = "<group>";
+		};
+		3016DD562815016F00C01480 /* Controllers */ = {
+			isa = PBXGroup;
+			children = (
+				3016DD442814F4E500C01480 /* InfoListTableViewController.swift */,
+			);
+			path = Controllers;
+			sourceTree = "<group>";
+		};
+		3016DD572815017B00C01480 /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				3016DD462814F4E500C01480 /* Main.storyboard */,
+				3016DD4B2814F4E700C01480 /* LaunchScreen.storyboard */,
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+		3016DD582815018D00C01480 /* Utilities */ = {
+			isa = PBXGroup;
+			children = (
+				3016DD542814F91300C01480 /* Constants.swift */,
+			);
+			path = Utilities;
+			sourceTree = "<group>";
+		};
+		3016DD592815019D00C01480 /* Lifecycle Functions */ = {
+			isa = PBXGroup;
+			children = (
+				3016DD402814F4E500C01480 /* AppDelegate.swift */,
+				3016DD422814F4E500C01480 /* SceneDelegate.swift */,
+			);
+			path = "Lifecycle Functions";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
