@@ -29,9 +29,7 @@
                         </connections>
                     </tableView>
                     <toolbarItems/>
-                    <navigationItem key="navigationItem" id="jYG-UY-N81">
-                        <barButtonItem key="rightBarButtonItem" title="Sort" id="MCB-DY-suj"/>
-                    </navigationItem>
+                    <navigationItem key="navigationItem" id="jYG-UY-N81"/>
                     <simulatedToolbarMetrics key="simulatedBottomBarMetrics"/>
                 </tableViewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="5sW-Aa-mYA" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
