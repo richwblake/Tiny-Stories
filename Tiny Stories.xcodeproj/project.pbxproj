@@ -26,6 +26,7 @@
 		3016DD4C2814F4E700C01480 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		3016DD4E2814F4E700C01480 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		3016DD542814F91300C01480 /* Constants.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Constants.swift; sourceTree = "<group>"; };
+		3016DD5A2815025A00C01480 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -64,6 +65,7 @@
 				3016DD492814F4E700C01480 /* Assets.xcassets */,
 				3016DD4E2814F4E700C01480 /* Info.plist */,
 				3016DD582815018D00C01480 /* Utilities */,
+				3016DD5A2815025A00C01480 /* README.md */,
 			);
 			path = "Tiny Stories";
 			sourceTree = "<group>";
